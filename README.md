@@ -70,7 +70,7 @@ Stop Time	2023-04-12 11:40
 
 ## Conclusion
 
-In this project, a mini honeynet was established in Microsoft Azure, and log sources from various endpoints were integrated into a Log Analytics workspace. Using Microsoft Sentinel, alerts and incidents were triggered based on the analyzed logs. Furthermore, metrics were gathered for a period of 48 hours to demonstrate the importance of configuring cloud assets with security in mind. By implementing a section of NIST SP 800-53 r4, a significant reduction in the number of security incidents and events was achieved, highlighting the effectiveness of security controls.
+In this project, a mini honeynet was created in Microsoft Azure, and log sources from various endpoints were integrated into a Log Analytics workspace. Using Microsoft Sentinel, alerts and incidents were triggered based on the analyzed logs. Furthermore, metrics were gathered for a period of 48 hours to demonstrate the importance of configuring cloud assets with security in mind. By implementing a section of NIST SP 800-53 r4, a significant reduction in the number of security incidents and events was achieved, highlighting the effectiveness of security controls.
 
 It is noteworthy that if network resources were heavily utilized by regular users, there could have been an increase in the number of security events and alerts generated within the first 24 hours of implementing security controls.
 
